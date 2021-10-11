@@ -1,2 +1,2 @@
 # Challenges-Mathematics
-## Coding-Blocks Competitive Programming
+## Coding-Blocks Competitive Programming Course
